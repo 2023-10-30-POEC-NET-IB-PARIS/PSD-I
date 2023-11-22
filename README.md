@@ -4,7 +4,7 @@
 
 ## Exercices et quiz
 
-- [Exerccie 0](./0-exercices/ex0.md)
+- [Exercice 0](./0-exercices/ex0.md)
 - [Quiz 1](./0-exercices/quiz1.md)
 - [Quiz 2](./0-exercices/quiz2.md)
 - [Quiz 3](./0-exercices/quiz3.md)
