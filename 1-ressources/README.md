@@ -26,7 +26,7 @@
 - [Vidéo de ExamsPM Préparation certifications PSM, CSM, ACP](https://www.youtube.com/watch?v=rXANXh7HBOE)
 - [Vidéo DEVITZONE](https://www.youtube.com/watch?v=cfZ782rpUFo&list=PLpRUUMt8tyHWe3gtnS1XYh2EfrCVCtf2N)
 - [Vidéo de Valentin Despa focus Live Questions & Answers](https://www.youtube.com/watch?v=IhMX6loPi8Q)
-- [QUIZ accessible via GITHUB mais vous avez les réponses directement](https://github.com/Ditectrev/Professional-Scrum-Developer-I-PSD-I-Practice-Tests-Exams-Questions-Answers)
+- **[QUIZ accessible via GITHUB mais vous avez les réponses directement](https://github.com/Ditectrev/Professional-Scrum-Developer-I-PSD-I-Practice-Tests-Exams-Questions-Answers)**
 - [Echantillon Quiz PSD](https://capeprojectmanagement.com/psd-sample/quiz_html5.html)
 
 ---
@@ -43,6 +43,18 @@
 - Attention vous pouvez tomber sur les QCM de [Mikhail Lapshin](https://mlapshin.com/index.php/scrum-quizzes/) en faisant des recherches sur Web. Ses questions se basent sur l'ancienne version du SCRUM GUIDE 2017 donc elles ne sont pas à jour. Je vous déconseille pour le moment de faire les quiz car cela peut vous induire en erreur pour l'examen qui se base sur la version de SCRUM GUIDE 2020.
 
 ---
+
+## Pour compléter le cours
+
+- [Design Pattern](https://refactoring.guru/fr/design-patterns)
+- [Mise en pratique différence BDD et ATDD](https://www.youtube.com/watch?v=aebv1z80vSM)
+- [SCRUM Cheat-sheets(aide mémoire)](https://cheatography.com/vini-vivero/cheat-sheets/scrum/)
+- [Ebook sur les metrics à télécharger après avoir crée un compte sur le site](https://www.coursehero.com/file/169115232/codacy-ebook-metricspdf/)
+- [Tests unitaires spy, stub et mock avec PHP](https://grafikart.fr/tutoriels/phpunit-test-unit-308)
+- [Tests unitaires spy, stub et mock avec JavaScript (il date un peu mais les concepts restent les mêmes)](https://www.youtube.com/watch?v=dF_zUg7uCpA)
+
+---
+
 
 ## Tips
 

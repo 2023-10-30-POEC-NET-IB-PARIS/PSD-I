@@ -2,6 +2,12 @@
 
 ---
 
+## Examens
+
+[Lien vers les quiz d'examen](./2-exams/README.md)
+
+---
+
 ## Exercices et quiz
 
 - [Exercice 0](./0-exercices/ex0.md)
